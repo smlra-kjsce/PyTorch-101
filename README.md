@@ -15,7 +15,7 @@ This is a repository of all notebooks and presentations used in PyTorch-101 work
 3. If you face any abnormal outputs, feel free to ping us.
 
 
-Any doubts, feel free to ask your queries, especially those who couldn't attend at aicouncil.kjsce@somaiya.edu.
+Any doubts, feel free to ask your queries, especially those who couldn't attend at smlra-kjsce@somaiya.edu.
 
 ## Resources:
 1. [Official Website](https://pytorch.org)
