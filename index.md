@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+# PyTorch-101
+<br>
 
-You can use the [editor on GitHub](https://github.com/smlra-kjsce/PyTorch-101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/33197180/109423497-a6651680-7a05-11eb-97da-572e83a33dc9.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+PyTorch is an open-source machine learning framework based on the Torch library, that allows you to build and deploy neural network models easily. It is used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research (FAIR) lab. It is well-supported on major cloud platforms, providing frictionless development and easy scaling. Its Pythonic nature and the latest mobile model support have propelled PyTorch to such popularity, with its usage extending from research to industry. Today, leading companies like Tesla, Lyft, Disney, Microsoft, Airbnb, Toyota, Facebook (of course), etc. are using PyTorch frequently to help scale their deep learning models from research to deployment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a repository of all notebooks and presentations used in PyTorch-101 workshop.
 
-```markdown
-Syntax highlighted code block
+## Some points to note on how to use this repository:
+1. Kindly open the notebooks in Colab using the "Open in Colab" button on top of each notebook.
+2. Try out the code by implementing the various PyTorch methods and functions. Use the [Pytorch](https://pytorch.org/) documentation to explore more.
+3. If you face any abnormal outputs, feel free to ping us.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Any doubts, feel free to ask your queries, especially those who couldn't attend at smlra-kjsce@somaiya.edu.
 
-1. Numbered
-2. List
+## Resources:
+1. [Official Website](https://pytorch.org)
+2. [PyTorch Intro Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+3. [Fast-PyTorch](https://github.com/omerbsezer/Fast-Pytorch)
+4. [Official Documentation](https://pytorch.org/docs/stable/index.html) 
+5. [Introduction to PyTorch by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/) 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h3 align="center"><b>Developed with :heart: by: </b></h3>
+	
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
+  <tr>
+<td>
+  <img src="https://avatars3.githubusercontent.com/u/33197180?s=150&v=4"/>
+     
+    Arghyadeep Das
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="center">
+<a href = "https://github.com/arghyadeep99"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/arghyadeepdas99"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/arghyadeep-das/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
 
-### Jekyll Themes
+<td>
+  <img align='center' src="https://avatars.githubusercontent.com/u/59757814?s=460&u=21cb42e99f8a7265869165154afde3491afad29d&v=4" width="150">
+     
+    Mayank Chowdhary
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smlra-kjsce/PyTorch-101/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align="center">
+<a href = "https://github.com/m607stars"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/mayankchowdhary/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
 
-### Support or Contact
+<td>
+  <img align='center' src="https://smlra-kjsce.github.io/Images/profile_pics/tejas2.jpg" width="150">
+     
+    Tejas Khanolkar
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center">
+<a href = "https://github.com/tejas2008"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/tejas-khanolkar-a04733192/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+
+<td>
+  <img align='center' src="https://smlra-kjsce.github.io/Images/profile_pics/Rahil.jpg" width="150">
+     
+    Rahil Parikh
+
+<p align="center">
+<a href = "https://github.com/Rahil-Parikh"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rahilparikh007//"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+
+<td>
+  <img align='center' src="https://smlra-kjsce.github.io/Images/profile_pics/Aayush.jpg" width="150">
+     
+    Aayush Chheda
+
+<p align="center">
+<a href = "https://github.com/Aayush-Chheda"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aayush-chheda-6049461a9/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+</tr>
+</table>
