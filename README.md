@@ -23,7 +23,7 @@ Any doubts, feel free to ask your queries, especially those who couldn't attend 
 3. [Fast-PyTorch](https://github.com/omerbsezer/Fast-Pytorch)
 4. [Official Documentation](https://pytorch.org/docs/stable/index.html) 
 5. [Introduction to PyTorch by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/) 
-
+6. [PyTorch for Deep Learning - Full Course / Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 
 <h3 align="center"><b>Developed with :heart: by: </b></h3>
 	
